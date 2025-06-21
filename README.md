@@ -39,3 +39,9 @@ Este repositório oferece dicas concisas e recursos úteis para auxiliar na migr
         Microsoft Learn - Azure
     Azure Blog Oficial: Notícias, atualizações e artigos sobre o ecossistema Azure.
         Azure Blog
+
+
+         cria um arquivo de readme.md para ser inserido em um repositorio do github sobre o azure , contendo dicas sobre migraçao de maquinas onpremises para nuvem . Seja sucinto e informe o links de referência , insira também menus . 
+
+
+         cria um arquivo de readme.md para ser inserido em um repositorio do github sobre o azure , contendo dicas sobre migraçao de maquinas onpremises para nuvem . Seja sucinto e informe o links de referência , insira também menus . 
